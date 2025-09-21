@@ -1,5 +1,4 @@
 # xai-assignments
-Assignment 1: Interpretable ML
+AIPI 590 - XAI | Assignment 1: Interpretable ML
 
-AIPI 590: Emerging Trends in Explainable AI
-Course GitHub linked here: https://github.com/AIPI-590-XAI/Duke-AI-XAI
+We are working with a dataset from a telecommunications company to understand the factors that contribute to customer churn and develop interpretable models to predict which customers are at risk of churning.
