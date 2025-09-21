@@ -5,4 +5,3 @@ Course GitHub linked here: https://github.com/AIPI-590-XAI/Duke-AI-XAI
 
 Contents:
 - Assignment 1: Interpretable ML
-- Assignment 2: Explainable Techniques I
